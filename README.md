@@ -1,8 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiko-yoshiko)](https://github.com/anuraghazra/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiko-yoshiko&theme=flat)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiko-yoshiko&theme=flat)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshiko-yoshiko&theme=solarized&utcOffset=9)
+![](https://github-readme-stats.vercel.app/api?username=yoshiko-yoshiko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiko-yoshiko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiko-yoshiko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshiko-yoshiko&utcOffset=9)
 
 <p align="left">
   <a href="https://github.com/yoshiko-yoshiko/yoshiko-yoshiko/">
@@ -15,7 +14,6 @@
     <img height="20" src="https://img.shields.io/github/followers/yoshiko-yoshiko?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
 <!--
 **yoshiko-yoshiko/yoshiko-yoshiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
